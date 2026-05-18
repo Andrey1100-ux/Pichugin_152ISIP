@@ -234,3 +234,10 @@ function addCSSAnimations() {
 
 // Вызываем функцию добавления анимаций
 addCSSAnimations();
+function goToPrevious() {
+  window.location.href = "index.html";
+}
+
+function goToNext() {
+  window.location.href = "contact.html";
+}
